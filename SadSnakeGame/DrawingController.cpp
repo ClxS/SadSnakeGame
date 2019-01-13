@@ -3,6 +3,8 @@
 #include <iostream>
 #include <iomanip>
 #include <Windows.h>
+#include "GameController.h"
+#include "Snake.h"
 
 HANDLE out = GetStdHandle(STD_OUTPUT_HANDLE);
 

@@ -1,4 +1,5 @@
 #include "Snake.h"
+#include <queue>
 
 Direction currentDirection = Direction::EAST;
 snakeBody body;

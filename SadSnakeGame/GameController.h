@@ -1,6 +1,4 @@
 #pragma once
-#include "DrawingController.h"
-#include "Snake.h"
 
 constexpr int mapSize = 21;
 constexpr int moveDelay = 500;	//ms

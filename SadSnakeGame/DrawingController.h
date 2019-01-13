@@ -1,6 +1,4 @@
 #pragma once
-#include "GameController.h"
-#include "Snake.h"
 
 void drawGame();
 void drawFood();

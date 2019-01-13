@@ -4,6 +4,8 @@
 #include <random>
 #include <conio.h>
 #include <iostream>
+#include "Snake.h"
+#include "DrawingController.h"
 
 food foodPosition;
 
